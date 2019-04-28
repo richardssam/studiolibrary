@@ -1,1 +1,9 @@
-Qt.py
+PyQt4==4.11.4
+PyQt5==5.12.1
+PySide==1.2.4
+PySide2==5.12.2
+maya==0.6.1
+scandir==1.10.0
+shiboken==1.2.2
+shiboken2==5.12.2
+sip==4.19.8
