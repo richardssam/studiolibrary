@@ -7,3 +7,4 @@ scandir==1.10.0
 shiboken==1.2.2
 shiboken2==5.12.2
 sip==4.19.8
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
